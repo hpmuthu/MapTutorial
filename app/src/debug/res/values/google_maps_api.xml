@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8A:E5:DD:93:E8:67:97:C6:9A:DD:7B:C3:41:AA:1C:AA:DE:A5:41:AF%3Bcom.example.vittal.maptutorial
+
+    You can also add your credentials to an existing key, using this line:
+    8A:E5:DD:93:E8:67:97:C6:9A:DD:7B:C3:41:AA:1C:AA:DE:A5:41:AF;com.example.vittal.maptutorial
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBdNRS-_L_jV5RgeSSigUHUHA-cgST2YH0</string>
+</resources>
